@@ -1,3 +1,30 @@
 {
-   "partList" : []
+    "partList" : [
+        {
+            "uuid": "be13c529-8c46-4bb6-bbea-9547351f60ba",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/angle-1x1-full.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x1-full.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropY",
+            "color": "eeeeee",
+            "box": { "x": 1, "y": 1, "z": 1 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        }
+    ]
 }
