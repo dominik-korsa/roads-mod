@@ -8,7 +8,10 @@ Made with help of the **Scrap Mechanic Mods** Discord comunity [https://discord.
 
 ### Steam Workshop
 **The mod isn't yet released on Steam Workshop**
-Works only when game is installed using Steam *(You know what I'm taking about)*
+
+Works only when game is installed using Steam
+
+*(You know what I'm taking about)*
 
 ### Manual instalation
  1. Download the mod from the [Releases page](https://github.com/123skiper/roads-mod/releases).
