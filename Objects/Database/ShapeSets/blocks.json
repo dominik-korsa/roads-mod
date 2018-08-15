@@ -1,0 +1,54 @@
+{
+    "blockList": [
+		{
+			"uuid": "75cb5af7-733a-432b-b54c-66dd5ba0865c",
+			"dif": "$MOD_DATA/Objects/Textures/asphalt.png",
+			"asg": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"nor": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"color": "000000",
+			"density": 250,
+			"tiling": 1,
+			"physicsMaterial": "Rock"
+		},
+		{
+			"uuid": "b5dcc45e-1939-40cb-bac7-89efb8894a8d",
+			"dif": "$MOD_DATA/Objects/Textures/warning-A.png",
+			"asg": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"nor": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"color": "eeeeee",
+			"density": 250,
+			"tiling": 2,
+			"physicsMaterial": "Rock"
+		},
+		{
+			"uuid": "c25c9e4b-fdc2-47b2-82c3-9781cd403dc9",
+			"dif": "$MOD_DATA/Objects/Textures/warning-A-offset.png",
+			"asg": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"nor": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"color": "eeeeee",
+			"density": 250,
+			"tiling": 2,
+			"physicsMaterial": "Rock"
+		},
+		{
+			"uuid": "b4e2add5-ca2b-4ceb-813c-5631d8bb5369",
+			"dif": "$MOD_DATA/Objects/Textures/warning-B.png",
+			"asg": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"nor": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"color": "eeeeee",
+			"density": 250,
+			"tiling": 2,
+			"physicsMaterial": "Rock"
+		},
+		{
+			"uuid": "ecc47add-6226-4718-8361-794779dc111c",
+			"dif": "$MOD_DATA/Objects/Textures/warning-B-offset.png",
+			"asg": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"nor": "$GAME_DATA/Textures/Default/default_asg.tga",
+			"color": "eeeeee",
+			"density": 250,
+			"tiling": 2,
+			"physicsMaterial": "Rock"
+		}
+	]
+}
