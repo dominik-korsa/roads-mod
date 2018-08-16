@@ -25,6 +25,32 @@
             "density": 250.0,
             "physicsMaterial": "Rock",
             "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "f576c006-d767-472e-be83-f965ad8b7fd8",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/angle-1x2-full.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x2-full.obj"
+                    }
+                ]
+            },
+            "rotationSet": "MirrorXZ",
+            "color": "eeeeee",
+            "box": { "x": 1, "y": 1, "z": 2 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
         }
     ]
 }
