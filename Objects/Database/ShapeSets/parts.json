@@ -1,3 +1,212 @@
 {
-   "partList" : []
+    "partList" : [
+        {
+            "uuid": "be13c529-8c46-4bb6-bbea-9547351f60ba",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/angle-1x1-full.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x1-full.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropY",
+            "color": "eeeeee",
+            "box": { "x": 1, "y": 1, "z": 1 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "f576c006-d767-472e-be83-f965ad8b7fd8",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/angle-1x2-full.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x2-full.obj"
+                    }
+                ]
+            },
+            "rotationSet": "MirrorXZ",
+            "color": "eeeeee",
+            "box": { "x": 1, "y": 1, "z": 2 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "4c6b3729-5dc2-470d-88bc-dbc3914634e9",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/angle-1x3-full.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x3-full.obj"
+                    }
+                ]
+            },
+            "rotationSet": "MirrorXZ",
+            "color": "eeeeee",
+            "box": { "x": 1, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "dee36206-1cdd-4160-8072-0777735bc483",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/angle-1x4-full.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x4-full.obj"
+                    }
+                ]
+            },
+            "rotationSet": "MirrorXZ",
+            "color": "eeeeee",
+            "box": { "x": 1, "y": 1, "z": 4 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "6cd59919-959a-49ae-9a1d-ac89c7e3b6fe",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/asphalt.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x1-half.obj"
+                    }
+                ]
+            },
+            "rotationSet": "MirrorXZ",
+            "color": "000000",
+            "box": { "x": 1, "y": 1, "z": 1 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X-Y+Y+Z"
+        },
+        {
+            "uuid": "4e24d695-cf39-4d3a-ac30-ddc63dacff99",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/asphalt.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x2-half.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "000000",
+            "box": { "x": 1, "y": 1, "z": 2 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X-Y+Y+Z"
+        },
+        {
+            "uuid": "d8ab04f1-0dde-459a-abea-241af13ecad6",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/asphalt.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x3-half.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "000000",
+            "box": { "x": 1, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X-Y+Y+Z"
+        },
+        {
+            "uuid": "de67f511-1997-42fa-b8cc-4fe28a8b71d2",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/asphalt.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/angle-1x4-half.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "000000",
+            "box": { "x": 1, "y": 1, "z": 4 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X-Y+Y+Z"
+        }
+    ]
 }
