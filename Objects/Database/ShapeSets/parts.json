@@ -207,6 +207,682 @@
             "density": 250.0,
             "physicsMaterial": "Rock",
             "sticky": "-X-Y+Y+Z"
+        },
+        {
+            "uuid": "260b9787-72d5-4998-896a-9861ef7752a8",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_A.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "d8df4542-d8a5-4364-a761-7b6566ddc741",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_B.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "60f857b5-2c99-415c-8382-8d1fca78a231",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_C.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "b883fe56-cee4-4743-9488-d643c2d3cef5",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_D.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "8a7093ab-eca6-41b1-9ee0-485cc152ef5d",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_E.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "f737e1f3-c58e-4cde-ac14-e08d7419a453",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_F.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "b6319c10-9f99-496e-bcec-98e8f2551c0e",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_G.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "884766ae-b7ee-41db-bdda-b102a8bb5dd2",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_H.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "c229a6c7-615a-4c64-9769-a2744577202d",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_I.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "30ab81cf-9a99-40f9-a519-9205603e4502",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_J.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "1504e229-4d56-44a2-9678-c97ee2dd6aad",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_K.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "3febd85e-f6b2-4a04-9330-ff8c865d75c6",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_L.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "62e06a11-cf3a-4ff8-bd0a-d65c15722cc7",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_M.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "a7caffd2-24d5-4239-af7c-ba09a7c1a452",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_N.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "2a4e0657-6148-4172-84ef-68e161cdd6d1",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_O.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "16506760-456d-48a4-83c6-b5efcf06230a",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_P.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "571716d4-b970-410a-921c-48b6ee91553f",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_Q.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "b4ba04d6-7230-4217-8bb0-ba75a7d4f461",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_R.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "03cb03a7-675b-41fa-a87f-402d9b06e803",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_S.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "afd9d573-7c3f-4b00-bab0-eec2690ec357",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_T.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "af8f2391-7d9e-463e-9921-b1bfdb7f59b8",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_U.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "1cbe70b9-dada-417e-8160-ccb4f5f33460",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_V.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "c6094ff7-dc88-4c2b-a005-d3f17bb7fe6a",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_W.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "3be9dad4-5c59-4d30-a2e7-6965ad2110e8",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_X.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "3381247c-4a9e-4e56-91a0-08f15e0be677",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_Y.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "deb623b3-5b8f-49de-bf06-1bb0c2a8202a",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/letters/letter_Z.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "DifAsgNor"
+                            }
+                        ],
+                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                    }
+                ]
+            },
+            "rotationSet": "PropFull",
+            "color": "eeeeee",
+            "box": { "x": 2, "y": 1, "z": 3 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-X+X-Y+Y-Z+Z"
         }
     ]
 }
