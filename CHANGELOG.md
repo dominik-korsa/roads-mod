@@ -12,3 +12,7 @@
 
  - Added **Asphalt angle markings** (aka _angles full_): 1x1, 1x2, 1x3, 1x4
  - Added **Asphalt angles** (aka _angles half_): 1x1, 1x2, 1x3, 1x4
+
+**v0.2.0-alpha**
+
+ - Added **Asphalt letters** A-Z
