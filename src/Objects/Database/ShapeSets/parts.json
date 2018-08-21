@@ -873,7 +873,7 @@
                             "material": "DifAsgNor"
                             }
                         ],
-                    "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
+                        "mesh": "$MOD_DATA/Objects/Mesh/letter.obj"
                     }
                 ]
             },
@@ -883,6 +883,39 @@
             "density": 250.0,
             "physicsMaterial": "Rock",
             "sticky": "-X+X-Y+Y-Z+Z"
+        },
+        {
+            "uuid": "2055078c-ad84-40f6-82e5-3823a216752d",
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList": [
+                        {
+                            "textureList": [
+                                "$MOD_DATA/Objects/Textures/train-signal-dif.png",
+                                "$GAME_DATA/Textures/Default/default_asg.tga",
+                                "$GAME_DATA/Textures/Default/default_nor.tga"
+                            ],
+                            "material": "PoseAnimDifAsgNor"
+                            }
+                        ],
+                        "mesh": "$MOD_DATA/Objects/Mesh/train-signal-on.obj",
+                        "pose0": "$MOD_DATA/Objects/Mesh/train-signal-off.obj"
+                        }
+                ]
+            },
+            "rotationSet": "PropZ",
+            "color": "ff0000",
+            "box": { "x": 1, "y": 1, "z": 1 },
+            "density": 250.0,
+            "physicsMaterial": "Rock",
+            "sticky": "-Z",
+			"spotlight": {
+				"defaultLuminance": 25,
+				"effect": "HeadLight",
+				"color" : "ff0000",
+				"direction": { "x": 0, "y": 0, "z": 1 }
+			}
         }
     ]
 }
